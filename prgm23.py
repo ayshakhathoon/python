@@ -1,0 +1,5 @@
+l=int(input("ENTER VALUE 1:"))
+m=int(input("ENTER VALUE 2:"))
+n=int(input("ENTER VALUE 3"))
+print("Largest of l,m,n")
+print(max(l,m,n))
